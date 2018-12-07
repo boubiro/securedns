@@ -1,4 +1,4 @@
-本程序是一个简易的基于字典的DNS子域名爆破程序。这个程序仅为示范DNS over HTTPS协议，请勿用于非法用途！
+本程序是一个简易的基于字典的DNS子域名爆破程序。这个程序仅为示范DNS over HTTPS协议（[RFC8484](https://tools.ietf.org/html/rfc8484)），请勿用于非法用途！
 
 ### 编译
 仅测试了在Visual Studio 2017下可编译，并且需要.NET Framework 4.6.1支持。
